@@ -1,7 +1,3 @@
-Here's an updated version of your GitHub profile README based on your CV, including your tech stack and images for better presentation:  
-
----
-
 ### **Hi there, I'm Jishnu M!** 👋  
 
 Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:  
@@ -13,19 +9,19 @@ Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:
 - An **e-commerce platform**  
 
 🌱 **Currently learning**:  
-- React Native for mobile app development  
-- C++ and Python to strengthen my programming expertise  
+- **React Native** for mobile app development  
+- **C++ and Python** to strengthen my programming expertise  
 
 👯 **Looking for opportunities in**:  
 - Open-source web development projects  
-- Web development roles focusing on **JavaScript, Node.js, or React**  
+- Web development roles focusing on **JavaScript, Node.js, React, and React Native**  
 
 🤔 **Seeking help with**:  
-- Advanced backend development (Redis, caching, microservices)  
+- Advanced backend development (**Redis, caching, microservices**)  
 
 💬 **Ask me about**:  
 - The **MERN stack**  
-- Web application **architecture**  
+- Web & mobile app **architecture**  
 - Building **scalable APIs**  
 
 📫 **How to reach me**:  
@@ -48,6 +44,7 @@ I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
@@ -63,4 +60,4 @@ I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra
 
 ---
 
-Would you like me to refine anything further? 🚀
+This version includes **React Native** in the **tech stack** and emphasizes your **mobile app development skills**. Let me know if you'd like any further refinements! 🚀
