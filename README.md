@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:
 
 🌱 **Currently learning**:  
 - **React Native** for mobile app development  
-- **C++ and Python** to strengthen my programming expertise  
+- **JS and TS** to strengthen my programming expertise  
 
 👯 **Looking for opportunities in**:  
 - Open-source web development projects  
