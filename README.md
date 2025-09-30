@@ -41,7 +41,7 @@ I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra
 ---
 
 ### **🛠️ Tech Stack**  
-(https://github.com/user-attachments/assets/37773d6b-72d6-4005-85cb-e7519a71b0e8](https://wallpapercave.com/wp/wp8725091.jpg)
+
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -56,6 +56,7 @@ I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra
 ![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge)  
 
 #### **Database & DevOps**  
+![Prisma](https://img.shields.io/badge/Prisma-DC143C?style=for-the-badge&logo=prisma&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
