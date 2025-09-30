@@ -41,6 +41,7 @@ I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra
 ---
 
 ### **🛠️ Tech Stack**  
+(https://github.com/user-attachments/assets/37773d6b-72d6-4005-85cb-e7519a71b0e8](https://wallpapercave.com/wp/wp8725091.jpg)
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
