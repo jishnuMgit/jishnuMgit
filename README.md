@@ -1,77 +1,117 @@
-### **Hi there, I'm Jishnu M!** 👋  
+## 👋 Hi there, I'm **Jishnu M**
 
-Welcome to my GitHub profile! Here’s a quick overview of what I’m up to:  
-
-🔭 **Currently working on**:  
-- Full Stack Web Development (MERN + NEXT.JS + REACT NATIVE)  
-- A **Learning Management System (LMS)** with training modules, progress tracking & user analytics  
-- A **social media platform** similar to Instagram  
-- An **e-commerce platform**  
-
-🌱 **Currently learning**:  
-- **React Native** for mobile app development  
-- **JS and TS** to strengthen my programming expertise  
-
-👯 **Looking for opportunities in**:  
-- Open-source web development projects  
-- Web development roles focusing on **JavaScript, Node.js, React, and React Native**  
-
-🤔 **Seeking help with**:  
-- Advanced backend development (**Redis, caching, microservices**)  
-
-💬 **Ask me about**:  
-- The **MERN stack**  
-- Web & mobile app **architecture**  
-- Building **scalable APIs**  
-
-📫 **How to reach me**:  
-📧 Email: **mjishnu990@gmail.com**  
-🔗 LinkedIn: [Jishnu M](https://www.linkedin.com/in/jishnu-m-11760b2b0/)  
-📱 Phone: **+91 77367 24727**  
-🌍 Portfolio: [My Portfolio](https://profile-e9o9.onrender.com/)  
-
-💼 **Work Experience**:  
-- **Full Stack Developer at Rootments Enterprises LLP** (Developed an LMS, progress tracking, analytics)  
-- **Web Developer Intern at Bytedart**  
-- **Web Developer Intern at Zoople Technologies**  
-
-⚡ **Fun fact**:  
-I enjoy experimenting with UI libraries like **Tailwind CSS, daisyUI, and Chakra UI** to create sleek, responsive designs!  
+🚀 **Full Stack Developer** specializing in **MERN, Next.js, React Native, and NestJS**, passionate about building scalable web and mobile applications with clean UI and efficient backend architectures.
 
 ---
 
-### **🛠️ Tech Stack**  
+## 🚀 What I'm Building
 
+* 📚 **Learning Management System (LMS)** with authentication, course management, progress tracking, and analytics
+* 📱 **React Native** applications using Expo
+* 📸 A modern **social media platform** inspired by Instagram
+* 🛒 Full-stack **e-commerce applications**
+* 🌐 RESTful APIs with **Node.js, Express.js, Next.js API Routes, and NestJS**
 
-#### **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+---
 
+## 🌱 Currently Learning
 
-#### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge)  
+* ⚛️ Advanced **React Native**
+* 📘 **TypeScript** best practices
+* ⚡ **Redis**, caching strategies, and microservices
+* ☁️ AWS cloud services and scalable deployments
 
-#### **Database & DevOps**  
-![Prisma](https://img.shields.io/badge/Prisma-DC143C?style=for-the-badge&logo=prisma&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
+## 💡 Interested In
+
+* Open Source Contributions
+* Full Stack JavaScript Development
+* React & React Native Development
+* Backend Architecture & API Design
+* Cloud Deployments
+
+---
+
+## 💬 Ask Me About
+
+* MERN Stack
+* Next.js
+* React Native
+* NestJS
+* REST APIs
+* Authentication (JWT)
+* Prisma ORM
+* MongoDB & MySQL
+* Responsive UI Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-DC143C?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### Deployment & Cloud
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge\&logo=cpanel\&logoColor=white)
+
+### Analytics & Version Control
+
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge\&logo=posthog\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## ⚡ Technology Overview
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,mongodb,mysql,prisma,firebase,tailwind,expo&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,mongodb,mysql,prisma,firebase,tailwind,bootstrap,js,ts,expo,aws,vercel,git,github&perline=6"/>
 </p>
 
 ---
 
+## 💼 Professional Experience
 
+* 💻 Full Stack Developer — **Rootments Enterprises LLP**
+* 🌐 Web Developer — **Bytedart**
+* 🎓 Web Developer Intern — **Zoople Technologies**
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** **[mjishnu990@gmail.com](mailto:mjishnu990@gmail.com)**
+
+💼 **LinkedIn:** https://www.linkedin.com/in/jishnu-m-11760b2b0/
+
+🌐 **Portfolio:** https://profile-e9o9.onrender.com/
+
+📱 **Phone:** +91 77367 24727
