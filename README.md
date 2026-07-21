@@ -100,8 +100,9 @@
 
 ## 💼 Professional Experience
 
-* 💻 Full Stack Developer — **Rootments Enterprises LLP**
-* 🌐 Web Developer — **Bytedart**
+* 💻 Mern Stack Developer — **cords innovation**
+* 💻 Mern Developer — **Rootments Enterprises LLP**
+* 💻 part-time Web Developer — **Bytedart**
 * 🎓 Web Developer Intern — **Zoople Technologies**
 
 ---
