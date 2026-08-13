@@ -36,23 +36,22 @@
 
 ## 💬 Ask Me About
 
-⚛️ **MERN Stack
-▲ Next.js
-📱 React Native & Expo
-🟦 TypeScript
-🏗️ NestJS & Express.js
-🌐 REST APIs & API Integration
-🔐 Authentication & JWT
-🗄️ MongoDB, MySQL & PostgreSQL
-🔷 Prisma ORM
-⚡ Redis
-📊 PostHog
-🎨 Tailwind CSS & Responsive UI
-🐙 Git & GitHub
-☁️ Deployment & Hosting
-🔄 React Query
-📦 NativeWind
-🧭 React Navigation
+* ⚛️ MERN Stack
+* ▲ Next.js
+* 📱 React Native & Expo
+* 🟦 TypeScript
+* 🏗️ NestJS & Express.js
+* 🌐 REST APIs & API Integration
+* 🔐 Authentication & JWT
+* 🗄️ MongoDB, MySQL & PostgreSQL
+* 🔷 Prisma ORM
+* 📊 PostHog
+* 🎨 Tailwind CSS & Responsive UI
+* 🐙 Git & GitHub
+* ☁️ Deployment & Hosting
+* 🔄 React Query
+* 📦 NativeWind
+* 🧭 React Navigation
 
 
 ---
