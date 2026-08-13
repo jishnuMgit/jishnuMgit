@@ -116,6 +116,6 @@
 
 💼 **LinkedIn:** https://www.linkedin.com/in/jishnu-m-11760b2b0/
 
-🌐 **Portfolio:** https://profile-e9o9.onrender.com/
+🌐 **Portfolio:** https://portfolio-topaz-one-34.vercel.app/
 
 📱 **Phone:** +91 77367 24727
