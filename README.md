@@ -16,10 +16,11 @@
 
 ## 🌱 Currently Learning
 
-* ⚛️ Advanced **React Native**
-* 📘 **TypeScript** best practices
-* ⚡ **Redis**, caching strategies, and microservices
-* ☁️ AWS cloud services and scalable deployments
+* 🐍 **Python**
+* 🚀 **Python Django**
+* ⚡ **FastAPI**
+* 📝 **Redis**
+* 🐘 **PostgreSQL**
 
 ---
 
@@ -35,15 +36,24 @@
 
 ## 💬 Ask Me About
 
-* MERN Stack
-* Next.js
-* React Native
-* NestJS
-* REST APIs
-* Authentication (JWT)
-* Prisma ORM
-* MongoDB & MySQL
-* Responsive UI Development
+⚛️ **MERN Stack
+▲ Next.js
+📱 React Native & Expo
+🟦 TypeScript
+🏗️ NestJS & Express.js
+🌐 REST APIs & API Integration
+🔐 Authentication & JWT
+🗄️ MongoDB, MySQL & PostgreSQL
+🔷 Prisma ORM
+⚡ Redis
+📊 PostHog
+🎨 Tailwind CSS & Responsive UI
+🐙 Git & GitHub
+☁️ Deployment & Hosting
+🔄 React Query
+📦 NativeWind
+🧭 React Navigation
+
 
 ---
 
