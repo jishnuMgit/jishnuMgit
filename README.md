@@ -130,14 +130,14 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=jishnuMgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    src="https://github-profile-trophy.vercel.app/?username=jishnuMgit&theme=tokyonight&no-frame=true&margin-w=6"
     alt="GitHub Trophies"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jishnuMgit&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jishnuMgit&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
     alt="GitHub Contribution Activity Graph"
   />
 </p>
