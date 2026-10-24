@@ -106,6 +106,42 @@
 </p>
 
 ---
+📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jishnuMgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Jishnu's GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuMgit&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jishnuMgit&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jishnuMgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jishnuMgit&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+---
 
 ## 💼 Professional Experience
 
