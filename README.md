@@ -1,154 +1,71 @@
-## 👋 Hi there, I'm **Jishnu M**
+<div align="center">
 
-🚀 **Full Stack Developer** specializing in **MERN, Next.js, React Native, and NestJS**, passionate about building scalable web and mobile applications with clean UI and efficient backend architectures.
+# 👋 Hey, I'm Jishnu M
 
----
+### Full Stack Developer · Web & Mobile
 
-## 🚀 What I'm Building
+I build polished, practical applications with **MERN, Next.js, React Native, and NestJS**—from thoughtful interfaces to reliable APIs.
 
-* 📚 **Learning Management System (LMS)** with authentication, course management, progress tracking, and analytics
-* 📱 **React Native** applications using Expo
-* 📸 A modern **social media platform** inspired by Instagram
-* 🛒 Full-stack **e-commerce applications**
-* 🌐 RESTful APIs with **Node.js, Express.js, Next.js API Routes, and NestJS**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jishnu-m-11760b2b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-topaz-one-34.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mjishnu990@gmail.com)
 
----
-
-## 🌱 Currently Learning
-
-* 🐍 **Python**
-* 🚀 **Python Django**
-* ⚡ **FastAPI**
-* 📝 **Redis**
-* 🐘 **PostgreSQL**
+</div>
 
 ---
 
-## 💡 Interested In
+## 🚀 What I'm working on
 
-* Open Source Contributions
-* Full Stack JavaScript Development
-* React & React Native Development
-* Backend Architecture & API Design
-* Cloud Deployments
+- 📚 A **Learning Management System** with authentication, courses, progress tracking, and analytics
+- 📱 **React Native apps** built with Expo
+- 📸 A modern **social platform** inspired by Instagram
+- 🛒 Full-stack **e-commerce experiences**
+- 🌐 REST APIs with **Node.js, Express, Next.js, and NestJS**
 
----
+## 🌱 Currently exploring
 
-## 💬 Ask Me About
+`Python` · `Django` · `FastAPI` · `Redis` · `PostgreSQL`
 
-* ⚛️ MERN Stack
-* ▲ Next.js
-* 📱 React Native & Expo
-* 🟦 TypeScript
-* 🏗️ NestJS & Express.js
-* 🌐 REST APIs & API Integration
-* 🔐 Authentication & JWT
-* 🗄️ MongoDB, MySQL & PostgreSQL
-* 🔷 Prisma ORM
-* 📊 PostHog
-* 🎨 Tailwind CSS & Responsive UI
-* 🐙 Git & GitHub
-* ☁️ Deployment & Hosting
-* 🔄 React Query
-* 📦 NativeWind
-* 🧭 React Navigation
+## 🧰 My toolkit
 
+<div align="center">
 
----
+| Frontend & Mobile | Backend | Data & Platforms |
+|---|---|---|
+| React · Next.js · React Native · Expo | Node.js · Express · NestJS | MongoDB · MySQL · PostgreSQL |
+| TypeScript · JavaScript · Tailwind CSS · Bootstrap | REST APIs · JWT · Prisma | Firebase · AWS · Vercel · Render |
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-FFCA28?style=for-the-badge)
-
-### Database & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-DC143C?style=for-the-badge\&logo=prisma\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-### Deployment & Cloud
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge\&logo=cpanel\&logoColor=white)
-
-### Analytics & Version Control
-
-![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge\&logo=posthog\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## ⚡ Technology Overview
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,mongodb,mysql,prisma,firebase,tailwind,bootstrap,js,ts,expo,aws,vercel,git,github&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,expo,nodejs,express,nestjs,mongodb,mysql,postgres,prisma,firebase,aws,vercel,git,github&perline=9" alt="Technologies: React, Next.js, TypeScript, JavaScript, Tailwind CSS, Expo, Node.js, Express, NestJS, MongoDB, MySQL, PostgreSQL, Prisma, Firebase, AWS, Vercel, Git, and GitHub" />
 </p>
 
----
-📊 GitHub Stats
+## 💼 Experience
+
+- **MERN Stack Developer** — Cords Innovation
+- **MERN Developer** — Rootments Enterprises LLP
+- **Part-time Web Developer** — Bytedart
+- **Web Developer Intern** — Zoople Technologies
+
+## 📊 GitHub at a glance
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jishnuMgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="Jishnu's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuMgit&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="180"
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jishnuMgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jishnu's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuMgit&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jishnuMgit&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=jishnuMgit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+## 💬 Let's talk about
+
+MERN · Next.js · React Native · TypeScript · NestJS · API design · Authentication · MongoDB · PostgreSQL · Prisma · Tailwind CSS · Deployment
 
 ---
 
-## 💼 Professional Experience
-
-* 💻 Mern Stack Developer — **cords innovation**
-* 💻 Mern Developer — **Rootments Enterprises LLP**
-* 💻 part-time Web Developer — **Bytedart**
-* 🎓 Web Developer Intern — **Zoople Technologies**
-
----
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Developer;Next.js+Developer;React+Native+Developer)
-
-## 📫 Connect With Me
-
-📧 **Email:** **[mjishnu990@gmail.com](mailto:mjishnu990@gmail.com)**
-
-💼 **LinkedIn:** https://www.linkedin.com/in/jishnu-m-11760b2b0/
-
-🌐 **Portfolio:** https://portfolio-topaz-one-34.vercel.app/
-
-📱 **Phone:** +91 77367 24727
+<p align="center">
+  <i>Always learning, always building.</i><br />
+  <a href="mailto:mjishnu990@gmail.com">Say hello →</a>
+</p>
