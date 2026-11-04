@@ -50,10 +50,7 @@ I build polished, practical applications with **MERN, Next.js, React Native, and
 
 ## 📊 GitHub at a glance
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jishnuMgit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jishnu's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jishnuMgit&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jishnuMgit&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
